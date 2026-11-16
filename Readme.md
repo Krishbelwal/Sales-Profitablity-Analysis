@@ -1,11 +1,10 @@
 # Sales and Profitability Analysis | MySQL & Power BI
 
-![Front Page](FrontPage.png)
-
 ![Sales and Profitability Dashboard](Dashboard1.png)
 
 ![Sales and Profitability Dashboard](Dashboard2.png)
 
+![Sales and Profitability Dashboard](Dashboard3.png)
 ## 1. Project Overview
 
 The primary objective of this project is to analyze the company's sales and profitability performance to identify the key factors contributing to declining profit margins despite consistent growth in sales and total profit.
