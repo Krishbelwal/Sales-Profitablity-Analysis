@@ -72,10 +72,11 @@ Used **Jupyter Notebook** to import the dataset into MySQL.
 Performed basic data quality checks to ensure the dataset was suitable for analysis.
 
 **Activities performed:**
-- Checked column data types.
+- Checked column data types and converted the Shipping Cost column to an integer data type.
 - Identified and handled missing and NULL values.
 - Replaced missing postal codes with "Unknown" where applicable.
 - Checked for duplicate records.
+- Checked for inconsistent data.
 
 ### 4.4 SQL Data Analysis
 
