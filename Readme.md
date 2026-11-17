@@ -78,17 +78,25 @@ Performed basic data quality checks to ensure the dataset was suitable for analy
 - Checked for duplicate records.
 - Checked for inconsistent data.
 
-### 4.4 SQL Data Analysis
+### 4.4 Data Transformation
+
+- Created a new `Revenue` column by multiplying `Quantity` by `Price` to calculate revenue for each transaction.
+
+  **Formula:** `Revenue = Quantity * Price`
+
+
+
+### 4.5 SQL Data Analysis
 
 Wrote SQL queries based on the defined business questions to analyze sales, profit, and profit margin across different business dimensions.
 
 The analysis focused on identifying profitability trends, comparing business performance, and investigating factors contributing to lower profit margins.
 
-### 4.5 Power BI Integration
+### 4.6 Power BI Integration
 
 Connected Power BI directly to the MySQL database using the MySQL database connector and imported the required data for dashboard development.
 
-### 4.6 DAX Measures
+### 4.7 DAX Measures
 
 Created four DAX measures to calculate the primary business KPIs displayed on the dashboard.
 
@@ -99,7 +107,7 @@ Created four DAX measures to calculate the primary business KPIs displayed on th
 | Total Orders | Calculates the total number of orders. |
 | Profit Margin | Calculates profit as a percentage of total sales. |
 
-### 4.7 Power BI Dashboard Development
+### 4.8 Power BI Dashboard Development
 
 Developed an interactive **Sales and Profitability Analysis Dashboard** to present business performance and profitability insights in a structured and easy-to-understand format.
 
