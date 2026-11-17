@@ -5,6 +5,7 @@ Select * from orders;
 Select * from returns;
 Select * from people;
 
+v 
                                                     
                                                               --   Data cleaning -- 
 
@@ -100,8 +101,6 @@ Or
 shipping_cost < 0
 Or 
 Revenue < 0;
-
-
 
 
 
