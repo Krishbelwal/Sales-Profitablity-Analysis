@@ -92,6 +92,15 @@ Having count(*) >
 Alter table Fact_Table modify column Shipping_cost int ;
 
 
+                                                  -- Checking inconsistency --
+
+Select * From Fact_Table
+Where Sales < 0
+Or 
+shipping_cost < 0
+Or 
+Revenue < 0;
+
 
 
 
