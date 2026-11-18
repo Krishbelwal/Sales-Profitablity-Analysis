@@ -148,8 +148,6 @@ Developed an interactive Power BI dashboard to present the analysis in an easy-t
 
 ## 4. Key Insights & Business Recommendations
 
-## 4. Key Business Insights & Recommendations
-
 The analysis highlighted several important insights related to the company's sales and profitability performance.
 
 Sales and Total Profit showed an increasing trend over the four-year period, while the overall Profit Margin declined. This indicated that revenue growth was not translating into profitability at the same pace.
