@@ -148,15 +148,15 @@ Developed an interactive Power BI dashboard to present the analysis in an easy-t
 
 ## 4. Key Insights & Business Recommendations
 
-The analysis highlighted several important insights related to the company's sales and profitability performance.
+- The analysis highlighted several important insights related to the company's sales and profitability performance.
 
-Sales and Total Profit showed an increasing trend over the four-year period, while the overall Profit Margin declined. This indicated that revenue growth was not translating into profitability at the same pace.
+- Sales and Total Profit showed an increasing trend over the four-year period, while the overall Profit Margin declined. This indicated that revenue growth was not translating into profitability at the same pace.
 
-Certain product categories and sub-categories, particularly within Office Supplies and Art, demonstrated comparatively lower profit margins despite contributing to overall sales and profit.
+- Certain product categories and sub-categories, particularly within Office Supplies and Art, demonstrated comparatively lower profit margins despite contributing to overall sales and profit.
 
-At the regional level, Central America demonstrated strong sales and profit performance but comparatively lower profit margins, with higher shipping costs identified as a possible contributing factor.
+- At the regional level, Central America demonstrated strong sales and profit performance but comparatively lower profit margins, with higher shipping costs identified as a possible contributing factor.
 
-Similarly, the Consumer segment generated the highest sales and profit but ranked second in terms of Profit Margin, highlighting that higher sales contribution did not necessarily translate into higher profitability.
+- Similarly, the Consumer segment generated the highest sales and profit but ranked second in terms of Profit Margin, highlighting that higher sales contribution did not necessarily translate into higher profitability.
 
 Based on these findings, the following recommendations were proposed:
 
