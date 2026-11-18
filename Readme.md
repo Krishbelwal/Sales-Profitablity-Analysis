@@ -148,59 +148,26 @@ Developed an interactive Power BI dashboard to present the analysis in an easy-t
 
 ## 4. Key Insights & Business Recommendations
 
-After analyzing the data and developing the dashboard, I identified the following business insights:
+## 4. Key Business Insights & Recommendations
 
-### Insight 1: Sales and Profit Growth vs. Declining Profit Margin
+The analysis highlighted several important insights related to the company's sales and profitability performance.
 
-**Finding:**
+Sales and Total Profit showed an increasing trend over the four-year period, while the overall Profit Margin declined. This indicated that revenue growth was not translating into profitability at the same pace.
 
-Sales and total profit showed an increasing trend over the four-year period, while the overall profit margin declined.
+Certain product categories and sub-categories, particularly within Office Supplies and Art, demonstrated comparatively lower profit margins despite contributing to overall sales and profit.
 
-This indicated that the company was generating higher sales and profit, but its profitability was not improving at the same pace.
+At the regional level, Central America demonstrated strong sales and profit performance but comparatively lower profit margins, with higher shipping costs identified as a possible contributing factor.
 
-**Business Recommendation:**
+Similarly, the Consumer segment generated the highest sales and profit but ranked second in terms of Profit Margin, highlighting that higher sales contribution did not necessarily translate into higher profitability.
 
-Management should monitor profit margins alongside sales growth and investigate the business areas contributing to margin decline. Focus should be placed on improving profitability rather than relying only on increasing sales.
+Based on these findings, the following recommendations were proposed:
 
-### Insight 2: Category and Sub-category Profitability
+- Review pricing and discount strategies for products with lower profit margins.
+- Evaluate shipping and logistics expenses in regions with comparatively lower profitability.
+- Identify opportunities to improve cost efficiency across products, regions, markets, and customer segments.
+- Monitor Profit Margin alongside Sales and Total Profit to ensure sustainable and profitable business growth.
 
-**Finding:**
-
-The analysis highlighted comparatively lower profit margins in certain product categories and sub-categories, including areas within Office Supplies and Art, despite their contribution to sales and profit.
-
-**Business Recommendation:**
-
-Review pricing and discount strategies for low-margin products. Management should also evaluate shipping expenses and product-level costs to identify opportunities for improving profitability.
-
-### Insight 3: Regional Sales and Profitability
-
-**Finding:**
-
-Central America demonstrated strong sales and profit performance but comparatively lower profit margins. Higher shipping costs were identified as a possible factor putting pressure on profitability.
-
-**Business Recommendation:**
-
-Management should review shipping and logistics expenses in this region. Optimizing delivery operations and evaluating pricing strategies may help improve regional profit margins.
-
-### Insight 4: Market Performance
-
-**Finding:**
-
-Asia Pacific generated high sales and profit but ranked second in terms of profit margin. This indicated that strong sales performance did not necessarily translate into the highest profitability.
-
-**Business Recommendation:**
-
-Evaluate the impact of shipping costs, discounts, and other expenses across the market. Focus on improving cost efficiency while maintaining sales performance.
-
-### Insight 5: Customer Segment Performance
-
-**Finding:**
-
-The Consumer segment generated the highest sales and profit but ranked second in profit margin. This suggested that higher sales contribution did not necessarily result in the strongest margin performance.
-
-**Business Recommendation:**
-
-Review discount patterns and shipping expenses associated with the Consumer segment. Identify opportunities to improve margins without negatively affecting customer demand.
+Overall, the project provided a consolidated view of the company's sales and profitability performance, highlighted high-sales but low-margin business areas, and provided actionable recommendations to improve profit margins while maintaining sales growth.
 
 ## 5. Business Impact
 
