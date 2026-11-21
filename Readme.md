@@ -85,8 +85,8 @@ Key cleaning activities included:
 - Checked and corrected column data types, including converting Shipping Cost into an integer data type.
 - Identified and handled missing and NULL values.
 - Replaced missing Postal Code values with "Unknown" where appropriate.
-- Checked and handled duplicate records.
-- Identified and addressed inconsistent data.
+- Checked duplicate records.
+- Identified inconsistent data.
 
 ### 3.4 Data Transformation
 
